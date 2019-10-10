@@ -1,5 +1,5 @@
 FROM php:7.2-apache
-MAINTAINER Pierre Cheynier <pierre.cheynier@gmail.com>
+MAINTAINER Pierre Cheynier <dddpierre.cheynier@gmail.com>
 
 ENV PHPIPAM_SOURCE https://github.com/phpipam/phpipam/
 ENV PHPIPAM_VERSION 1.4
